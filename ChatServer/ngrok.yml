@@ -1,0 +1,8 @@
+﻿version: "2"
+authtoken: 30L6lOP5YQxSVuz9JtFg9nAJrBN_2WkfTu66tP33UYzGCtU98
+tunnels:
+  roboanalyzer-chat:
+    addr: 5000
+    proto: http
+    hostname: roboanalyzerteam7.ngrok.io
+    inspect: true
