@@ -6,3 +6,5 @@ tunnels:
     proto: http
     hostname: roboanalyzerteam7.ngrok.io
     inspect: true
+    agent:
+  authtoken: 30L6lOP5YQxSVuz9JtFg9nAJrBN_2WkfTu66tP33UYzGCtU98
